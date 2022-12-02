@@ -1,0 +1,38 @@
+#mybr1 {
+    border: solid lightcoral;
+    background-color: yellow;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:auto;
+    margin-bottom:auto;
+    border-collapse: collapse;
+  }
+
+
+#bg1 {
+    background-image: url(brg2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    }
+#bg2 {
+  background-image: url(brg.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  }
+  #bg3 {
+    background-image: url('2023xd.webp');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    }
+
+#mybrnum1 {
+   background-color: silver;
+  }
+  
+#satsun {
+  color: rgb(59, 59, 187);
+}
+
